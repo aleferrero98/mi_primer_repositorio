@@ -1,3 +1,8 @@
 Hola mundo :)
 ke ase
+<<<<<<< HEAD
 te gusta eh
+=======
+pene
+
+>>>>>>> 73115afa65ff041864fba0e6f2e01ef3961083c9
